@@ -1,0 +1,21 @@
+/*
+*
+{
+    font-size : 30px;
+}
+    */
+   h3{
+        color:yellow 
+    }
+    h4{
+        color:red
+    }
+    .myclass{
+         color:coral
+    }
+    #myid{
+        color:blueviolet
+    }
+    h5,p{
+        background-color:blue
+    }
